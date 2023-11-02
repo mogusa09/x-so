@@ -1,1 +1,1 @@
-FROM daxia2023/ndjs:user-30-argo-nez2
+FROM ghcr.io/eoovve/nodejs-argo:latest
